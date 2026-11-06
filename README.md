@@ -1,5 +1,8 @@
 # Hot Edge
 
+This is Frostyard's fork of Hot Edge; see [FORK.md](FORK.md) for how it
+differs from upstream.
+
 A GNOME Shell extension that adds a hot edge that activates the overview to the bottom of the screen. 
 
 ## Features
