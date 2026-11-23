@@ -14,7 +14,7 @@ Exactly one commit on the fork's main changes what the extension ships: `5411c38
 
 ## Is the pinned commit the fork's current main?
 
-snosi's `shared/download/image-checksums.json` pins `8869f0923582404def36f756c1a19fa8bdd3d7cf`, the merge that added this document. Every commit on the fork's main after that pin changes only documentation files, so the extension code, metadata and schemas that Snow ships match the fork's main. snosi's build copies the whole tree, so a new pin also copies the new documentation files into the image.
+snosi's `shared/download/image-checksums.json` pins `d65489cc5352d72701a40d7e2dabacc25701ce68`, the merge that links this document from `README.md` and the tip of the fork's main, so the extension code, metadata and schemas that Snow ships match the fork's main. snosi's build copies the whole tree, so a new pin also copies the new documentation files into the image.
 
 ## How far upstream has moved
 
